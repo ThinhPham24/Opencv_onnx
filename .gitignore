@@ -10,7 +10,8 @@
 
 # Executables
 *.exe
-
+*.pt
+*.onnx
 # Metadata
 *.aliases
 *.lvlps
